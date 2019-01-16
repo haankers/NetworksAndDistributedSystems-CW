@@ -1,5 +1,5 @@
 # NetworksCW-UDP-RMI
 
-This is a piece of courswork from the 2nd year course Computer Networks
+This is a piece of coursework from the 2nd year course Computer Networks
 and Distributed Systems. This coursework asked us to set up both a UDP and RMI
-server. Inside this git is both the spec and final report.
+server. Inside this git is the final report.
